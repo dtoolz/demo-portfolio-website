@@ -1,0 +1,40 @@
+
+
+/* background pix for first section*/
+#filler{
+	background: url(images/p2a.jpg)center/cover no-repeat ;
+}
+.navbar-collapse li a:hover {
+    background-color: blue
+}
+.alignhr hr{
+	border: 2px solid #b4b4b4;
+	width: 60%;
+	margin-top: 32px; 
+	margin-bottom: 32px;
+}
+.abt-img img{
+	max-height:500px;
+}
+.title-underline{
+	border: 1px solid #b4b4b4;
+	width: 60%;
+	margin-top: 16px; 
+	margin-bottom: 16px;
+}
+.title-underlinelong{
+	border: 1px solid #b4b4b4;
+	width: 100%;
+	margin-top: 16px; 
+	margin-bottom: 16px;
+}
+#contactbg{
+	background: url(images/c1.jpeg)center/cover no-repeat ;
+}
+
+
+
+
+
+
+
